@@ -1,0 +1,22 @@
+{
+  "name": "k6-loadtest",
+  "version": "1.0.0",
+  "description": "a Proof of Concept for load testing with k6.io by Grafana",
+  "main": "load.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewzhaocc/k6-loadtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewzhaocc/k6-loadtest/issues"
+  },
+  "homepage": "https://github.com/matthewzhaocc/k6-loadtest#readme",
+  "dependencies": {
+  }
+}
